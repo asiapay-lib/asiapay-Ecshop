@@ -1,6 +1,9 @@
 # PayDollar/SaimPay/PesoPay Payment plugin for ECshop
 Use PayDollar/SaimPay/PesoPays plugin for ECshop to offer ALL payments option.
 
+## Download
+Please download the latest plugin version. [Download](https://github.com/asiapay-lib/asiapay-Ecshop/releases/latest)
+
 ## Integration
 The plugin integrates ECshop with PayDollar/SaimPay/PesoPay payment gateway with All payment method.
 
